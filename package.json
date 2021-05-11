@@ -1,0 +1,18 @@
+{
+  "name": "glue-example",
+  "version": "0.1.0",
+  "description": "Glue Example",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "glue build",
+    "release": "glue release",
+    "deploy": "glue deploy",
+    "ci": "glue ci",
+    "test": "glue plumbing test"
+  },
+  "author": "Edwin Kofler <edwin@kofler.dev> (https://edwinkofler.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
