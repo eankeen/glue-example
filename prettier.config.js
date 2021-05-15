@@ -1,1 +1,1 @@
-/storage/edwin/Docs/Programming/repos/glue-example/.glue/config/auto/prettier.config.js
+.glue/configs/auto/prettier.config.js

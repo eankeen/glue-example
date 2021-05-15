@@ -14,6 +14,6 @@ bootstrap() {
 	fi
 
 	bootstrap.init
-	bootstrap.abstract 'commands'
-	command.log
+	bootstrap.abstract 'actions'
+	action.log
 }
